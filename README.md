@@ -19,7 +19,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 17 years old, currently living in Brazil. I am a student of Front-End development with a strong skill set in Python. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 I am 17 years old, currently living in Brazil. I am a student of Front-End development with a strong skill set in Python. 
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
@@ -31,11 +31,6 @@
 
 <!-- GithubStats -->
 ![Alan Godoy GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham&count_private=true&hide=prs&hide_title=true&hide_rank=false)
-
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
@@ -57,4 +52,3 @@
     <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   </div>
 </div>
-
