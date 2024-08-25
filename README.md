@@ -1,54 +1,57 @@
 ![snake gif](https://github.com/Lzdeveloperbr/Lzdeveloperbr/blob/output/github-contribution-grid-snake.gif)
 
-<!-- título -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
+# 👋 Olá, eu sou Alan Godoy!
 
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Alan! A passionate Front-End student from Brazil.
+Sou um **Desenvolvedor Front-End** apaixonado por criar experiências web incríveis e intuitivas. Com um forte foco em design e usabilidade, estou sempre explorando novas tecnologias e técnicas para oferecer o melhor em cada projeto.
 
-  - 🌱 I’m currently studying Front-End development at Alura.
+## 🚀 Sobre Mim
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work at Google.
-</p>
+- 💼 **Front-End Developer** com experiência em criar interfaces web interativas e responsivas.
+- 🌟 Focado em design centrado no usuário e desempenho.
+- 📚 Aprendizado contínuo com novas tecnologias e frameworks.
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+## 🔧 Tecnologias e Linguagens
 
-  - 💬 I am 17 years old, currently living in Brazil. I am a student of Front-End development with a strong skill set in Python. 
+Aqui estão algumas das tecnologias e linguagens que eu uso regularmente:
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-godoy-925532257/)
+## 📈 Estatísticas do GitHub
 
-<!-- GithubStats -->
-![Alan Godoy GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham&count_private=true&hide=prs&hide_title=true&hide_rank=false)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lzdeveloperbr&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  </div>
-</div>
+## 📫 Entre em Contato
+
+Você pode me encontrar em:
+
+<a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/seu-usuario" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:seu-email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/>
+</a>
+
+## 🎉 Diversão e Curiosidades
+
+Aqui estão algumas das coisas que eu gosto de fazer fora do trabalho:
+
+- 🎮 Jogar videogames
+- 📚 Ler sobre tecnologia e design
+- 🎬 Assistir a filmes e séries
+
+> "A única maneira de fazer um excelente trabalho é amar o que você faz." – Steve Jobs
+
+Obrigado por visitar meu perfil! 🚀
+
+---
+
+*Este README é um trabalho em progresso. Continue verificando para atualizações e novas informações!*
