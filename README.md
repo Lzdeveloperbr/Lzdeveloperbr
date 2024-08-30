@@ -36,7 +36,7 @@ Você pode me encontrar em:
 <a href="https://twitter.com/seu-usuario" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<a href="mailto:seu-email@example.com" target="_blank">
+<a href="mailto:alangodoy2603@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
 
