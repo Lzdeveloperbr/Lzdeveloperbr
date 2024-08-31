@@ -33,7 +33,7 @@ Você pode me encontrar em:
 <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/seu-usuario" target="_blank">
+<a href="https://twitter.com/alansgodoy" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 <a href="mailto:alangodoy2603@gmail.com" target="_blank">
